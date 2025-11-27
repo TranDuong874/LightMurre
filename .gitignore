@@ -1,2 +1,3 @@
-dtu_clean/
-checkpoints
+GTAV_540/
+dataset/
+.venv/
